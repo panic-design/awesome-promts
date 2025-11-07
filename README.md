@@ -4,8 +4,6 @@
 
 [Обойти региональные ограничения за 2 минуты на любой системе.](unblocking-services/dns-for-browser-or-system.md)
 
-[Найти подходящую нейросеть для своей задачи](ai-services.md)
+[Найти подходящую нейросеть для своей задачи.](ai-services.md)
 
-[Каталог промтов](prompt-catalogue.md)
-
-[Секретное дополение к репозиторию](https://github.com/panic-design/awesome-leaks)
+[Каталог промтов.](prompt-catalogue.md)

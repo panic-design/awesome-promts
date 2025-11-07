@@ -25,3 +25,11 @@
 ### [DeepSeek-V3.2](https://chat.deepseek.com/)
 - Безлимитное количество запросов.
 - Средний анализ изображений.
+
+# Unranked
+
+### [Qwen3-Max](https://chat.qwen.ai/)
+
+### [Grok 4](https://grok.com/)
+
+### [Perplexity AI](https://www.perplexity.ai/)
